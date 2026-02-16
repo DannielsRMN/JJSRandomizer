@@ -44,3 +44,10 @@ La base de datos actual incluye:
 * Python 3.x
 * Tkinter (Interfaz Gráfica)
 * Pillow (Manejo de Imágenes)
+
+## 📥 Descarga Directa
+Para usar el Randomizer sin necesidad de instalar Python, descarga la última versión aquí:
+
+[![Descargar JJS Randomizer](https://github.com/DannielsRMN/JJSRandomizer/releases/tag/v1.0.0)
+
+> **Nota:** Al descargar, descomprime el archivo .zip y ejecuta `main.exe` dentro de la carpeta.

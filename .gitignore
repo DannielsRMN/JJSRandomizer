@@ -17,4 +17,16 @@ dist/
 .DS_Store
 Thumbs.db
 
+# Carpetas de salida de ejecutables
+output/
+dist/
+build/
+
+# Archivos comprimidos y ejecutables de salida
+*.zip
+*.exe
+output/
+dist/
+build/
+
 .vscode/
