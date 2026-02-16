@@ -1,0 +1,6 @@
+# Interfaz y manejo de imágenes
+Pillow>=10.0.0
+
+# Herramientas de desarrollo (opcional para el código, necesario para el .exe)
+auto-py-to-exe
+

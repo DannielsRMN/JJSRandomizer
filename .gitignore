@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno Virtual (Aislamiento de librerías)
+.venv/
+venv/
+env/
+
+# Carpetas generadas por auto-py-to-exe
+build/
+dist/
+*.spec
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+.vscode/
